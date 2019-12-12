@@ -48,7 +48,7 @@ dependencies:
 
   redis:
     github: stefanwille/crystal-redis
-    version: ~> 2.5
+    version: ~> 2.2
 
   shell-table:
     github: luckyframework/shell-table.cr
